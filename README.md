@@ -8,6 +8,8 @@
 
 # ・How to use
 Put Proxies in data/proxies.txt
+
+
 Put Cookies in data/cookies.txt
 
 # ・About
